@@ -1,17 +1,17 @@
 const person = {
-    profile_pic: "./image/shahin.jpeg",
+    profile_pic: "./image/ashkar.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Muhammed Shahin",
-    designation: "",
-    des_link_text: "",
+    Name: "Ashkar ali",
+    designation: "Purchase Manager",
+    des_link_text: "@Genuine X Distribution LLP",
     des_link: "",
-    contact: "./contact/Shahin.vcf",
+    contact: "./contact/ashkar.vcf",
 };
 
 const contact ={
-    contact_no: "97336756788",
-    whatsapp: "+919544105950;",
+    contact_no: "918073872343",
+    whatsapp: "+918073872343;",
     location: "",
     email: "",
 };
@@ -26,11 +26,11 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: false,
-    link:"https://www.facebook.com/suhail.sulaiman.1481?mibextid=ZbWKwL"
+    visibil: true,
+    link:"https://www.facebook.com/ashkar.alli.75?mibextid=ZbWKwL"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://www.instagram.com/shahinpkt?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
